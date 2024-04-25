@@ -10,4 +10,7 @@ In this project, I utilized R Studio to conduct both individual and group assign
 ## AI Decision Making
 For this project, the focus was on testing an external company's AI face detection system. The project involved writing automation scripts in Python for software testing purposes. Selenium was the primary tool utilized for automating the testing process.
 
+## Capstone Project
+Current under development
+
 
